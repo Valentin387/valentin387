@@ -1,9 +1,11 @@
 ### Hi there 👋
 ##👋 Hello, I'm Valentin Valencia, and I believe in the power of connecting people, ideas, and technology. 🌐
 
-## 🌍 My horizons expanded during an eye-opening academic exchange at L'École de Technologie Supérieure in Montreal, Canada, where I delved into the realm of génie en technologies de l'information.
+##🌍 My horizons expanded during an eye-opening academic exchange at L'École de Technologie Supérieure in Montreal, Canada, where I delved into the realm of génie en technologies de l'information.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=valentin387&theme=highcontrast&show_icons=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentin387&layout=compact)](https://github.com/anuraghazra/github-readme-stats&layout=comapact)
 
 <!--
 **Valentin387/valentin387** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
