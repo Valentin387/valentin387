@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valentin387" alt="valentin387" /></a> </p>
 
-- 🌱 I’m currently learning **spring boot, django, machine learning**
+- 🌱 I’m currently learning **langchain, fast api, react**
 
 - 📄 Know about my experiences [www.linkedin.com/in/valentin-valencia-valencia-2a0034231](www.linkedin.com/in/valentin-valencia-valencia-2a0034231)
 
