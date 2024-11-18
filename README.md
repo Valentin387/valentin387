@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Valentin Valencia Valencia</h1>
 <h3 align="center">🌐 I believe in the power of connecting people, ideas, and technology. 🌍 My horizons expanded during an eye-opening academic exchange at L'École de Technologie Supérieure in Montreal, Canada, where I delved into the realm of génie en technologies de l'information.</h3>
 
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Valentin387)
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valentin387" alt="valentin387" /></a> </p>
 
 - 🌱 I’m currently learning **Docker, TensorFlow**
