@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Docker, TensorFlow**
 
-- 📄 Know about my experiences  <a href="https://www.linkedin.com/in/valentin-valencia-valencia-2a0034231" target="blank">
-
 - ⚡ Fun fact **🙌 The values I cherish most are honesty, consistency, respect, and responsibility, I seek these qualities in those I work with.**
 
 <h3 align="left">Connect with me:</h3>
