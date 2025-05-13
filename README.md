@@ -4,10 +4,7 @@
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Valentin387)
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valentin387" alt="valentin387" /></a> </p>
-
-- 🌱 I’m currently learning **Docker, TensorFlow**
+- 🌱 I’m currently learning **Docker**
 
 - ⚡ Fun fact **🙌 The values I cherish most are honesty, consistency, respect, and responsibility, I seek these qualities in those I work with.**
 
