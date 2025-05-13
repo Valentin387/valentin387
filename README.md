@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valentin Valencia Valencia</h1>
-<h3 align="center">🌐 I believe in the power of connecting people, ideas, and technology. 🌍 My horizons expanded during an eye-opening academic exchange at L'École de Technologie Supérieure in Montreal, Canada, where I delved into the realm of génie en technologies de l'information.</h3>
+<h3 align="center">🌐 Software Engineer passionate about crafting scalable full-stack and mobile applications using Angular, Express.js, FastAPI, SpringBoot and Kotlin. I aim to drive innovation in the tech sector by delivering efficient, user-focused solutions while collaborating globally. Currently, I contribute to cutting-edge projects at Sindesoft S.A.S, leveraging my trilingual skills in English, French, and Spanish.</h3>
 
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Valentin387)
