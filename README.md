@@ -4,7 +4,7 @@
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Valentin387)
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Microservices with Spring boot + kafka + Docker**
 
 - ⚡ Fun fact **🙌 The values I cherish most are honesty, consistency, respect, and responsibility, I seek these qualities in those I work with.**
 
